@@ -1,0 +1,11 @@
+Admin
+
+username:- admin
+password:- apple
+
+
+***********************************************
+User
+
+username:- demo@gmail.com
+password:- apple

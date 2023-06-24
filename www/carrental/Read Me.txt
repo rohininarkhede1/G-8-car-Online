@@ -1,0 +1,10 @@
+Use WAMMP64 Server PHP
+
+
+Admin Login :-
+http://localhost/carrental/admin/index.php
+Psw : apple
+
+General User :-
+http://localhost/carrental/
+Psw : apple
